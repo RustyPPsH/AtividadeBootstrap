@@ -1,0 +1,174 @@
+h1 {
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 50px;
+  }
+  
+  body {
+    text-align: left;
+    margin-top: 80px;
+    margin-bottom: 50px;
+    margin-left: 150px;
+    margin-right: 150px;
+  }
+  
+  .container {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 150px;
+    margin-right: 150px;
+  }
+  
+  /* Estilos para o formulário */
+  
+  .form-control {
+    width: 100%;
+    height: 40px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  } 
+  
+  label {
+    font-weight: bold;
+  }
+  
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
+  .btn {
+    margin-top: 20px;
+    margin-right: 10px;
+  }
+  
+  /* Estilos para o campo de resultado */
+  
+  textarea {
+    width: 100%;
+    height: 200px;
+    padding: 10px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+  }
+  
+  /* Estilos para o modo escuro */
+  
+  body.dark-mode {
+    background-color: #333;
+    color: #fff;
+  }
+  
+  body.dark-mode h1 {
+    color: #fff;
+  }
+  
+  body.dark-mode label {
+    color: #fff;
+  }
+  
+  body.dark-mode .form-group {
+    color: #fff;
+  }
+  
+  body.dark-mode .btn {
+    color: #fff;
+  }
+  
+  body.dark-mode #resultado {
+    background-color: #333;
+    color: #fff;
+    border: 1px solid #fff;
+  }
+  
+  body.dark-mode .btn-dark {
+    background-color: #fff;
+    color: #333;
+  }
+  
+  body.dark-mode .btn-dark:hover {
+    background-color: #ccc;
+    color: #333;
+  }
+  
+  body.dark-mode .btn-dark:focus {
+    background-color: #ccc;
+    color: #333;
+  }
+  
+  body.dark-mode .btn-dark:active {
+  
+    background-color: #ccc;
+    color: #333;
+  }
+  
+  body.dark-mode .btn-dark:visited {
+    background-color: #ccc;
+    color: #333;
+  }
+  
+  body.dark-mode .btn-dark:link {
+    background-color: #ccc;
+    color: #333;
+  }
+  
+  /* Estilos para o modo claro */
+  
+  body.light-mode {
+    background-color: #fff;
+    color: #333;
+  }
+  
+  body.light-mode h1 {
+    color: #333;
+  }
+  
+  body.light-mode label {
+    color: #333;
+  }
+  
+  body.light-mode .form-group {
+    color: #333;
+  }
+  
+  body.light-mode .btn {
+    color: #333;
+  }
+  
+  body.light-mode #resultado {
+    background-color: #fff;
+    color: #333;
+    border: 1px solid #ccc;
+  }
+  
+  body.light-mode .btn-light {
+    background-color: #333;
+    color: #fff;
+  }
+  
+  body.light-mode .btn-light:hover {
+    background-color: #ccc;
+    color: #333;
+  }
+  
+  body.light-mode .btn-light:focus {
+    background-color: #ccc;
+    color: #333;
+  }
+  
+  body.light-mode .btn-light:active {
+    background-color: #ccc;
+    color: #333;
+  }
+  
+  body.light-mode .btn-light:visited {
+    background-color: #ccc;
+    color: #333;
+  }
+  
+  body.light-mode .btn-light:link {
+    background-color: #ccc;
+    color: #333;
+  }
